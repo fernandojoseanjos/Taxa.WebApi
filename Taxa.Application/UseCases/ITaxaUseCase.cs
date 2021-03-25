@@ -1,5 +1,4 @@
-﻿using System.Threading.Tasks;
-using Taxa.Application.Dto;
+﻿using Taxa.Application.Dto;
 
 namespace Taxa.Application.UseCases
 {
