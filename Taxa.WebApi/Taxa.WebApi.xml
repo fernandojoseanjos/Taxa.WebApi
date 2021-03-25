@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Taxa.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Taxa.WebApi.Controllers.TaxaController.Get">
+            <summary>
+            Get taxa de juros
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
