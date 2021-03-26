@@ -18,6 +18,7 @@ namespace Taxa.WebApi.Controllers
         /// <summary>
         /// Get taxa de juros
         /// </summary>
+        /// <remarks>Este método tem o objetivo de retornar a taxa de juros.</remarks>
         /// <returns></returns>
         [HttpGet("taxaJuros")]
         public async Task<IActionResult> Get()

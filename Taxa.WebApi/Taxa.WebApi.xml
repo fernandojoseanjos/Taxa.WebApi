@@ -8,7 +8,14 @@
             <summary>
             Get taxa de juros
             </summary>
+            <remarks>Este método tem o objetivo de retornar a taxa de juros para calcular o juros composto.</remarks>
             <returns></returns>
+        </member>
+        <member name="M:Taxa.WebApi.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            This method gets called by the runtime. Use this method to add services to the container.
+        </member>
+        <member name="M:Taxa.WebApi.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         </member>
     </members>
 </doc>
